@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9342bc27-6567-4d03-bace-4f79c2b73510" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\TestProjects\HelloKotlin\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rhhAir7Nqi9tSLYeWVOdALQESj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Kotlin.SingletonKt">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <module name="HelloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="HelloKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AlgorithmKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="HelloKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="HelloKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="HelloKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SingletonKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.SingletonKt" />
+        <item itemvalue="Kotlin.AppKt" />
+        <item itemvalue="Kotlin.AlgorithmKt" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Kotlin.FunctionsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9342bc27-6567-4d03-bace-4f79c2b73510" name="Default Changelist" comment="" />
+      <created>1619434087701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619434087701</updated>
+      <workItem from="1619434089115" duration="1039000" />
+      <workItem from="1619510516202" duration="665000" />
+      <workItem from="1619611089808" duration="3040000" />
+      <workItem from="1619617054227" duration="10000" />
+      <workItem from="1619683934322" duration="1800000" />
+      <workItem from="1619702599330" duration="599000" />
+      <workItem from="1620476423900" duration="949000" />
+      <workItem from="1621148301129" duration="12388000" />
+      <workItem from="1621228699553" duration="165000" />
+      <workItem from="1621237180798" duration="8622000" />
+      <workItem from="1621318778954" duration="11644000" />
+      <workItem from="1621406167330" duration="606000" />
+      <workItem from="1621415711095" duration="7475000" />
+      <workItem from="1621492168314" duration="743000" />
+      <workItem from="1621493394906" duration="3543000" />
+      <workItem from="1621594497886" duration="568000" />
+      <workItem from="1621837810019" duration="1490000" />
+      <workItem from="1622014906963" duration="840000" />
+      <workItem from="1622101652351" duration="1401000" />
+      <workItem from="1622446252031" duration="7921000" />
+      <workItem from="1622543815311" duration="2641000" />
+      <workItem from="1623057252227" duration="1199000" />
+      <workItem from="1623136056614" duration="4168000" />
+      <workItem from="1623308793448" duration="123000" />
+      <workItem from="1623308928738" duration="2379000" />
+      <workItem from="1633778143464" duration="519000" />
+      <workItem from="1633778699716" duration="603000" />
+      <workItem from="1633863183802" duration="2977000" />
+      <workItem from="1633873917894" duration="35000" />
+      <workItem from="1633882513422" duration="2057000" />
+      <workItem from="1634649081944" duration="42000" />
+      <workItem from="1634649851456" duration="40000" />
+      <workItem from="1635139178691" duration="2590000" />
+      <workItem from="1639996279380" duration="450000" />
+      <workItem from="1640065365145" duration="383000" />
+      <workItem from="1640149400039" duration="7000" />
+      <workItem from="1640163872822" duration="9719000" />
+      <workItem from="1640522282713" duration="5987000" />
+      <workItem from="1640754572300" duration="295000" />
+      <workItem from="1641466359776" duration="1766000" />
+      <workItem from="1650269356973" duration="2024000" />
+      <workItem from="1650289214918" duration="144000" />
+      <workItem from="1650349447586" duration="2418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2756" y="419" width="261" height="201" key="Github.ShareDialog" timestamp="1650350563568">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2756" y="419" width="261" height="201" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650350563568" />
+    <state width="1877" height="178" key="GridCell.Tab.0.bottom" timestamp="1650289358969">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650289358969" />
+    <state width="1877" height="178" key="GridCell.Tab.0.center" timestamp="1650289358969">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650289358969" />
+    <state width="1877" height="178" key="GridCell.Tab.0.left" timestamp="1650289358969">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650289358969" />
+    <state width="1877" height="178" key="GridCell.Tab.0.right" timestamp="1650289358969">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650289358969" />
+    <state x="2383" y="166" key="SettingsEditor" timestamp="1650349695169">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2383" y="166" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650349695169" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Examples.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Example3.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
