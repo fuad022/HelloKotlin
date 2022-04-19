@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9342bc27-6567-4d03-bace-4f79c2b73510" name="Default Changelist" comment="" />
+    <list default="true" id="9342bc27-6567-4d03-bace-4f79c2b73510" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloKotlin/META-INF/HelloKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloKotlin/META-INF/HelloKotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScopedFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScopedFunctions.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,12 +38,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Kotlin.SingletonKt">
+  <component name="RunManager" selected="Kotlin.ScopedFunctionsKt">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test1" />
       <module name="HelloKotlin" />
@@ -73,14 +79,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="ScopedFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="HelloKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
+      <option name="MAIN_CLASS_NAME" value="ScopedFunctionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ScopedFunctionsKt" />
         <item itemvalue="Kotlin.SingletonKt" />
         <item itemvalue="Kotlin.AppKt" />
         <item itemvalue="Kotlin.AlgorithmKt" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Kotlin.FunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -173,38 +179,58 @@
       <workItem from="1641466359776" duration="1766000" />
       <workItem from="1650269356973" duration="2024000" />
       <workItem from="1650289214918" duration="144000" />
-      <workItem from="1650349447586" duration="2418000" />
+      <workItem from="1650349447586" duration="11861000" />
     </task>
+    <task id="LOCAL-00001" summary="HelloKotlin project.">
+      <created>1650352702647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650352702647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HelloKotlin project." />
+    <option name="LAST_COMMIT_MESSAGE" value="HelloKotlin project." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2516" y="119" key="CommitChangelistDialog2" timestamp="1650352701445">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2516" y="119" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650352701445" />
     <state x="2756" y="419" width="261" height="201" key="Github.ShareDialog" timestamp="1650350563568">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2756" y="419" width="261" height="201" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650350563568" />
-    <state width="1877" height="178" key="GridCell.Tab.0.bottom" timestamp="1650289358969">
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom" timestamp="1650363325514">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650289358969" />
-    <state width="1877" height="178" key="GridCell.Tab.0.center" timestamp="1650289358969">
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650363325514" />
+    <state width="1877" height="227" key="GridCell.Tab.0.center" timestamp="1650363325513">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="178" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650289358969" />
-    <state width="1877" height="178" key="GridCell.Tab.0.left" timestamp="1650289358969">
+    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650363325513" />
+    <state width="1877" height="227" key="GridCell.Tab.0.left" timestamp="1650363325513">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="178" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650289358969" />
-    <state width="1877" height="178" key="GridCell.Tab.0.right" timestamp="1650289358969">
+    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650363325513" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right" timestamp="1650363325514">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="178" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650289358969" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650363325514" />
     <state x="2383" y="166" key="SettingsEditor" timestamp="1650349695169">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2383" y="166" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650349695169" />
+    <state x="2472" y="257" key="Vcs.Push.Dialog.v2" timestamp="1650352868878">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650352868878" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
