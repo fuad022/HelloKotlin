@@ -3,4 +3,4 @@ fun main() {
     println(UserProfile.toString())
 }
 
-object UserProfile {}
+object UserProfile
