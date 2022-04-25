@@ -13,6 +13,13 @@ fun main() {
 //    performWithOperation()
 //    performApplyOperation()
 //    performAlsoOperation()
+
+    val a = List(8) {
+        it * 2 + 1
+    }
+    println(a)
+
+    val d = mapOf("apple" to 10, "orange" to 5)
 }
 
 private fun performRunOperation() {
