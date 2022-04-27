@@ -14,12 +14,16 @@ fun main() {
 //    performApplyOperation()
 //    performAlsoOperation()
 
-    val a = List(8) {
-        it * 2 + 1
-    }
-    println(a)
+//    val a = List(8) {
+//        it * 2 + 1
+//    }
+//    println(a)
+//    val d = mapOf("apple" to 10, "orange" to 5)
 
-    val d = mapOf("apple" to 10, "orange" to 5)
+    val arr1 = arrayOf(10, 20, 30)
+    val arr2 = arrayOf(100, 200, 300)
+    val result = arr1 + arr2
+    println(result.toIntArray())
 }
 
 private fun performRunOperation() {
