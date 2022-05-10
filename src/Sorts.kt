@@ -8,7 +8,7 @@ fun main() {
 //    val sortedList = mergeSort(numbers)
 //    println("$sortedList")
 
-    val numbers = listOf(2, 4, 7, 3, 6, 9, 5, 1, 0)
+    val numbers = listOf(2, 4, 7, 3, 6)
     val ordered = quickSort(numbers)
     println(ordered)
 }
@@ -103,11 +103,14 @@ fun merge(left: List<Int>, right: List<Int>): List<Int> {
 }
 
 fun quickSort(items: List<Int>): List<Int> {
-    if (items.count() < 2) {
-        return items
-    }
+//    val size = items.size
+//    val count = items.count()
+//    println("size " + size)
+//    println("count " + count)
 
-    val pivot = items[items.count() / 2]
+    if (items.size < 2) return items
+
+    val pivot = items[items.size / 2]
 
     val equal = items.filter {
         it == pivot
